@@ -1,0 +1,16 @@
+name: supermercados-evo
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - folium
+  - jupyterlab
+  - pip
+  - pip:
+      - haversine
+      - tqdm
