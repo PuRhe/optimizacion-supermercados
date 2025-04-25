@@ -1,2 +1,2 @@
-#🧬 Optimización de Supermercados con Algoritmos Genéticos
+# Optimización de Supermercados con Algoritmos Genéticos
 Este proyecto permite encontrar ubicaciones óptimas para instalar 10 supermercados en la ciudad de Lima, maximizando la cobertura poblacional y la dispersión entre ellos. Se han utilizado dos enfoques evolutivos: un algoritmo genético mono-objetivo y un algoritmo genético multiobjetivo NSGA-II. Los resultados se visualizan de forma interactiva mediante mapas HTML y gráficos.
